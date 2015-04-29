@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\KOTestPOC.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\KOTestPOC.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\KOTestPOC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\obj\Debug\KOTestPOC.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\obj\Debug\KOTestPOC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\KOTestPOC\KOTestPOC\obj\Debug\KOTestPOC.csprojResolveAssemblyReference.cache
